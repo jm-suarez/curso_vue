@@ -1,0 +1,20 @@
+.cursor {
+    cursor: pointer;
+}
+
+
+
+
+footer {
+    text-align: center;
+    padding: 30px 10px;
+    margin-top: 50px;
+    min-height: 100px;
+}
+
+.producto-relacionado-precio {
+    background: orangered;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
